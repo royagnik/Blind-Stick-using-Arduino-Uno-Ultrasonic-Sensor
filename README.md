@@ -6,3 +6,9 @@ How It Works:
 The HC-SR04 ultrasonic sensor measures the distance to any obstacles in front of the stick.
 When an object is detected within the defined range, a buzzer is triggered, alerting the user of a nearby obstacle.
 The device is customizable, allowing for adjustments in the detection range for different environments.
+
+ Key Components:
+
+Arduino Uno for processing
+HC-SR04 Ultrasonic Sensor for distance measurement
+Buzzer for audible alerts
