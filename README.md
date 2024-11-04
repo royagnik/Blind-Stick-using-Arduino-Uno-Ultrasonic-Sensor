@@ -12,3 +12,8 @@ The device is customizable, allowing for adjustments in the detection range for 
 Arduino Uno for processing
 HC-SR04 Ultrasonic Sensor for distance measurement
 Buzzer for audible alerts
+
+ Skills Used:
+Programming in C++ for Arduino, working with sensors, and understanding distance measurement principles.
+
+This project demonstrates the potential of small-scale electronics to create meaningful, assistive technology. Looking forward to learning more and building even more impactful projects in the future!
